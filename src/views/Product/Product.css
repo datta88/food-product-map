@@ -1,0 +1,13 @@
+.Product-contener{
+    width: 300px;
+    padding: 20px;
+    border: 1px solid black;
+    box-shadow: 0 0 10px;
+    border-radius: 10px;
+    margin: 20px;
+}
+.emoji{
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
